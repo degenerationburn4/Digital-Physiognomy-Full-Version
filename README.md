@@ -233,3 +233,6 @@ This repository serves as the official landing page for Digital Physiognomy. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Digital Physiognomy today!**
+
+---
+**Last updated:** 2026-09-08 00:46:26 UTC
